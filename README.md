@@ -1,2 +1,2 @@
 # AICS-Projects
-My
+To keep everything maintainable 
